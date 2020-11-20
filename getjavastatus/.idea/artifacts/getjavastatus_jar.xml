@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="getjavastatus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/getjavastatus_jar</output-path>
+    <root id="archive" name="getjavastatus.jar">
+      <element id="module-output" name="getjavastatus" />
+    </root>
+  </artifact>
+</component>
